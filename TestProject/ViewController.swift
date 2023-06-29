@@ -20,6 +20,5 @@ class ViewController: UIViewController {
         let newView = UIView()
         view.addSubview(newView)
     }
-    // Do any additional setup after loading the view.
 }
 
